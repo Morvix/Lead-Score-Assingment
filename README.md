@@ -10,5 +10,5 @@ The company markets its courses on several websites and search engines like Goog
 [Project Data](https://github.com/Morvix/Lead-Score-Assingment/blob/main/Leading%20Score%20Data.pdf)
 [Subjective Answer](https://github.com/Morvix/Lead-Score-Assingment/blob/main/Subjective%20Question%20Answer.pdf)
 
-Name : Nimit Bhawani
+Name : Nimit Bhawani <br/>
 Summary Credits : Simar Dhiman
